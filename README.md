@@ -1,5 +1,5 @@
 ### Hi there GREETING: Asslamuwalaikum Wa Rohamatulloh 🌐🌐🌐, I'm Yousuf☪🇧🇩©2022
-#### Problem Solver, Programming
+#### Student, Engineer, Problem Solver (Programming), Web Developer
 ![Problem Solver, Programming](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 To work in the software and web apps IT sector different domestic or international in market with grow rapidly with increasing responsibilities.
@@ -8,14 +8,14 @@ This is Md. Yousuf Ali. I have completed BSc in Computer Science & Engineering D
 I am a hard worker, interested to learn new technology. Coding is my passion.
 Thanks.
 
-Skills: C / C++ / MySQL, Ubuntu Mate
+Skills: C / C++, HTML, CSS, JavaScript, MySQL, Web Devlopment 
 
-- 🔭 I’m currently working on HackerRank, Toph, TopCoder, Timus 
-- 🌱 I’m currently learning C++, Data Structures, Algorithms 
-- 👯 I’m looking to collaborate on GitHub 
+- 🔭 I’m currently solving problem on HackerRank, Toph, TopCoder, Timus 
+- 🌱 I’m currently learning C++, Data Structures, Algorithms from Books and Web
+- 👯 I’m looking to collaborate on devlopment
 - 💬 Ask me about C-C++ 
 - 📫 How to reach me: yousuf.cse17@gmail.com 
-- 😄 Pronouns: He 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Do code and faith in Allah (SWT). 
 
 
