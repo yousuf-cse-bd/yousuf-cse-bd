@@ -1,5 +1,5 @@
 ### Hi there GREETING: Asslamuwalaikum Wa Rohamatulloh 🌐🌐🌐, I'm Yousuf☪🇧🇩©2022
-#### Student, Engineer, Problem Solver (Programming), Web Developer
+#### Learner, Problem Solver (Programming), Web Developer
 ![Problem Solver, Programming](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 To work in the software and web apps IT sector different domestic or international in market with grow rapidly with increasing responsibilities.
