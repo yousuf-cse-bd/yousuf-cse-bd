@@ -8,7 +8,7 @@ This is Md. Yousuf Ali. I have completed BSc in Computer Science & Engineering D
 I am a hard worker, interested to learn new technology. Coding is my passion.
 Thanks.
 
-Skills: C / C++, HTML, CSS, JavaScript, MySQL, Web Devlopment 
+Skills: C-C++, Java, JavaScript, MySQL, Android Apps Devlopment 
 
 - 🔭 I’m currently solving problem on HackerRank, Toph, TopCoder, Timus 
 - 🌱 I’m currently learning C++, Data Structures, Algorithms from Books and Web
