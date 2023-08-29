@@ -2,7 +2,8 @@
 #### Learner, Problem Solver (Programming), Web Developer
 ![Problem Solver, Programming](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-To work in the software and web apps IT sector different domestic or international in market with grow rapidly with increasing responsibilities.
+To work in the software and web apps IT sector in different domestic or international markets with growing rapidly with increasing responsibilities.
+Participated in Varendra University Intra and Inter-university programming contests in 2017 & 2018.
 
 This is Md. Yousuf Ali. I have completed BSc in Computer Science & Engineering Degree course at Varendra University,  Rajshahi.
 I am a hard worker, interested to learn new technology. Coding is my passion.
