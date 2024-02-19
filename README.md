@@ -1,5 +1,5 @@
 ### Hi there GREETING: Asslamuwalaikum Wa Rohamatulloh 🌐🌐🌐, I'm Yousuf☪🇧🇩©2022
-#### Learner, Problem Solver (Programming),Android Apps development (Native)
+#### Learner, Problem Solver (Programming), Android Apps development (Native)
 ![Problem Solver, Programming](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 To work in the software and web apps IT sector in different domestic or international markets with growing rapidly with increasing responsibilities.
