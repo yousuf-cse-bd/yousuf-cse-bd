@@ -1,15 +1,15 @@
 ### Hi there GREETING: Asslamuwalaikum Wa Rohamatulloh 🌐🌐🌐, I'm Yousuf☪🇧🇩©2022
-#### Learner, Problem Solver (Programming), Web Developer
+#### Learner, Problem Solver (Programming),Android Apps development (Native)
 ![Problem Solver, Programming](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 To work in the software and web apps IT sector in different domestic or international markets with growing rapidly with increasing responsibilities.
 Participated in Varendra University Intra and Inter-university programming contests in 2017 & 2018.
 
 This is Md. Yousuf Ali. I have completed BSc in Computer Science & Engineering Degree course at Varendra University,  Rajshahi.
-I am a hard worker, interested to learn new technology. Coding is my passion.
+I am a diligent, interested to learn new technology. Coding is my passion.
 Thanks.
 
-Skills: C-C++, Java, JavaScript, MySQL, Android Apps Devlopment 
+Skills: Android Apps development, Computer Programming (OOPs) Algorithms-DataStructures, Linux (OS)
 
 - 🔭 I’m currently solving problem on HackerRank, Toph, TopCoder, Timus 
 - 🌱 I’m currently learning C++, Data Structures, Algorithms from Books and Web
@@ -17,7 +17,7 @@ Skills: C-C++, Java, JavaScript, MySQL, Android Apps Devlopment
 - 💬 Ask me about C-C++ 
 - 📫 How to reach me: yousuf.cse17@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Do code and faith in Allah (SWT). 
+- ⚡ Fun fact: Happy Coding. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yousuf-cse-bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yousuf-cse-bd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/yousuf.cse.bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yousuf_cse_bd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yousuf_cse_bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users//users/19210862/md-yousuf-ali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](yousuf-cse-bd)  
